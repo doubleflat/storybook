@@ -1,1 +1,1 @@
-### Just some practice with node, git, and storybook
+### Just some practice with node, git, and storybook.
